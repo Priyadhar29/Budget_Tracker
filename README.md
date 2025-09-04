@@ -34,7 +34,8 @@ Budget-Tracker/
 
 ## 📸 Screenshots
 ### **Dashboard**
-![Budget Tracker Screenshot](https://via.placeholder.com/800x400?text=Budget+Tracker+App)
+![Budget Tracker Screenshot]![Uploading image.png…]()
+
 
 ---
 
